@@ -11,6 +11,12 @@
 
 </div>
 
+## Project Video 🎞
+
+
+https://github.com/user-attachments/assets/d3578b5f-584f-4feb-9af0-544e65961485
+
+
 ## Project Summary
 This project demonstrates the end-to-end process of deploying a containerized web application (the classic 2048 game) onto a scalable, secure, and serverless Kubernetes cluster on AWS. The entire infrastructure is provisioned and managed using modern Infrastructure as Code (IaC) and cloud-native best practices.
 
