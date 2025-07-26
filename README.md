@@ -7,8 +7,6 @@
 
   A cloud-native web application deployment using Docker, AWS EKS & Fargate. <br> Responsive for both desktops and mobile devices. <br> Made with the intention of learning the in's and out's of Kubernetes 😁. 
 
-  <a href="http://k8s-game2048-ingress2-bcac0b5b37-1046223687.us-east-1.elb.amazonaws.com/"><strong>➥ Website (EKS Cluster IP) 🌐</strong></a>
-
 </div>
 
 ## Project Video 🎞
